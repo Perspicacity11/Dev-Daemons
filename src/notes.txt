@@ -1,0 +1,64 @@
+Work-related anxiety and mental disorders are becoming a common challenge among tech companies. 
+According to the International Journal of Social Sciences, software developers have a considerably 
+higher chance of experiencing fatigue, burnout, anxiety, and stress, compared to their colleagues 
+who perform mechanical tasks. Deteriorating mental health not only threatens the wellbeing of employees, 
+but the companies’ overall productivity. Researchers from the Institute of Software Technologies in 
+Stuttgart found that mentally-exhausted or depressed developers produce a lower quality of code 
+and tend to miss deadlines. Today, tech companies are realizing the importance of mental health 
+and taking action to ensure their dedicated development teams stay healthy and sane. - infoq.com (https://www.infoq.com/articles/mental-health-software-teams/)
+
+Consequencues of Unhappiness While Developing Software - https://arxiv.org/pdf/1701.05789.pdf
+Appendix to the above with data and more resources - https://figshare.com/collections/Online_appendix_the_happiness_of_software_developers/3355707/9
+
+Main consequences of dev unhappiness:
+
+- Mental unease or disease (EXPAND ON THIS)
+- Low cognitive performance
+- Low motivation
+- Work withdrawal
+
+----
+
+https://pubmed.ncbi.nlm.nih.gov/1974658/ (STUDY FROM 1990)
+
+ The results are summarized as follows: 
+ 1) Physical complaints were observed in 68% of the subjects with 25% of the subjects complaining of physical ill-health. 
+ This study showed that 12% of the subjects had hypertension, 12%, gastritis or gastro-duodenal ulcer, 14%, allergic disease, and 19% miscellaneous diseases. 
+ 2) Of the subjects 62% had mental complaints and 31% mental ill-health. Depressive symptom was the most frequent mental complaint with 32% of the subjects diagnosed as DSM-III. 
+ The common diagnoses were adjustment disorders (19%), major affective disorders (6%), psychological factors affecting physical condition (5%) and dysthymic disorder (3%). 
+ Only one subject sought professional help from a psychiatrist for relief of mental complaints. 
+
+ ----
+
+https://codete.com/blog/software-developers-and-mental-health-is-that-an-issue
+ The StackOverflow’s 2020 Developer Survey showed that as for mental health and differences IT specialists revealed they lived with the following conditions:
+
+ "an anxiety disorder" – 7.2% of respondents,
+ "a mood or emotional disorder (e.g. depression, bipolar disorder)” – 7.2% of respondents,
+ "a concentration and/or memory disorder (e.g. ADHD)" – 5.4% of respondents,
+ "autism / an autism spectrum disorder" – 2.3% of respondents.
+Those numbers seem to be disturbingly high (adding up to as much as 22.1%). It’s worth mentioning, however, that the survey had been conducted in February 2020, 
+before the COVID-19 pandemic started to influence people’s lives so greatly. 
+
+Some of the world-renowned companies that do so and implement the policy of putting mental health first are Unilever, Microsoft, Johnson & Johnson, and EY. They include:
+
+- webinars on topics like How to handle stress and difficult emotions at work, How to stay fit and maintain well-being during quarantine, and Healthy breathing, calm mind,
+- psychological consultations with professionals for employees and their families (direct anonymous appointments, scheduled easily by email, held in English or Polish),
+- psychiatric and psychological support available via Medicover Premium,
+- suggesting additional, external sources of useful information on maintaining mental health and deepening the topic of emotions. 
+
+----
+
+2022 Stack Overflow Survey
+
+SCREENSHOT IN DATA DIRECTORY OF NEURODIVERSITY AMONG DEVS
+
+
+----
+
+https://algodaily.com/lessons/solving-the-health-problems-of-software-engineers
+https://www.mind.org.uk/information-support/drugs-and-treatments/talking-therapy-and-counselling/how-to-find-a-therapist/
+https://www.counselling-directory.org.uk/
+https://welldoing.org/find-a-therapist
+https://www.csp.org.uk/public-patient/find-physiotherapist/find-physio
+

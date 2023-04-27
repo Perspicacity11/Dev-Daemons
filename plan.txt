@@ -1,0 +1,31 @@
+HOMEPAGE
+
+- Top level research insights
+- Directory of pages:
+    - anxiety
+    - mood-related issues
+    - burnout & fatigue
+    - isolation
+    - contentration or memory issues (eg. ADD)
+
+    - hypertension & musculoskeletal issues (the pain in my neck)
+    - gastritis & gastro-duodenal ulcer (the pain in my stomach)
+    - repetitive strain injury (the pain in my hands)
+    - eye strain (the pain in my eyes)
+
+Each page:
+
+- Research insights (pointing to commonality of any given problem, 'you are not alone')
+- Medical analysis of the problem
+- Solutions or approaches
+- Further resources
+- Relevant professionals in your area (this will require the user to give their location, 
+and use that to power an API call)
+
+
+- Developer page
+    - Why we've done this
+    - For devs, by devs
+    - Everyone in the technology ecosystem benefits from developers being
+    physically and mentally healthy
+    - Link to Github repo
